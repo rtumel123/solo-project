@@ -1,0 +1,24 @@
+{
+  "name": "solo-project",
+  "version": "1.0.0",
+  "description": "2-day solo project for Codesmith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtumel123/solo-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtumel123/solo-project/issues"
+  },
+  "homepage": "https://github.com/rtumel123/solo-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
