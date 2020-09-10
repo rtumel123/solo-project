@@ -1,3 +1,51 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+
 body {
-  background-color: aquamarine;
+  background-color: #A9BCD0;
+}
+
+.title {
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h3 {
+  margin-top: 50px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.App {
+  text-align: center;
+}
+
+.Form {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 13px;
+  background-color: ghostwhite;
+  margin-top: 50px;
+  width: 45%;
+  border-radius: 5px;
+}
+
+.Form p {
+  font-family: 'Press Start 2P', cursive;
+  padding-top: 10px;
+}
+
+.Input {
+  padding: 20px;
+}
+
+.Buttons {
+  margin-top: 20px;
+}
+
+.Buttons button {
+  padding: 10px 20px;
+  margin: 20px;
 }
